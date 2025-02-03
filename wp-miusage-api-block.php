@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP MiUsage API Block
- * Description: A plugin to integrate with miusage.com API, with a Gutenberg block.
+ * Description: A plugin to integrate with miusage.com API with a Gutenberg block.
  * Version: 1.0.1
  * Author: Suhel Shaikh
  * Text Domain: wp-miusage-api-block
