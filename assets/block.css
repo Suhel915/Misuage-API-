@@ -1,0 +1,25 @@
+.miusage-api-block {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.miusage-api-block table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.miusage-api-block th, .miusage-api-block td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.miusage-api-block th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.miusage-api-block tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
